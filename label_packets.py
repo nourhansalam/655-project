@@ -3,10 +3,10 @@ from OpenSSL import crypto
 import pandas as pd
 import numpy as np  # For handling NaN values
 
-# Replace with your .pcap file
+
 pcap_file = 'complaint_demo.pcap'
 
-# Define forward secrecy ciphers
+# forward secrecy ciphers
 forward_secrecy_ciphers = [
     "0xc02b",  # TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (TLS 1.2)
     "0xc02c",  # TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (TLS 1.2)
