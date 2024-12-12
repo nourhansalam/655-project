@@ -1,0 +1,1201 @@
+HTTP Version,HSTS,CSP,Compression,XFrame-Options,Compliant
+HTTP/2.0,,unsafe-inline,gzip,,False
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,True,default-src 'self',none,,False
+HTTP/1.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,,none,gzip,,False
+HTTP/1.0,True,unsafe-inline,none,,False
+HTTP/2.0,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,True,unsafe-inline,brotli,ALLOW-FROM,False
+HTTP/1.1,,script-src 'self',none,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/2.0,True,default-src 'self',brotli,,False
+HTTP/1.0,False,,none,ALLOW-FROM,False
+HTTP/1.0,,default-src *,none,,False
+HTTP/1.1,,default-src *,none,,False
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.1,False,unsafe-inline,brotli,ALLOW-FROM,False
+HTTP/2.0,False,default-src 'self',brotli,,False
+HTTP/2.0,,default-src 'self',none,,False
+HTTP/1.1,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,,brotli,,False
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/2.0,False,default-src *,gzip,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,default-src *,brotli,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,False,none,gzip,,False
+HTTP/2.0,False,unsafe-inline,brotli,ALLOW-FROM,False
+HTTP/1.0,False,script-src 'self',none,,False
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,,unsafe-inline,brotli,,False
+HTTP/1.1,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,none,gzip,,False
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.0,True,none,none,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,default-src *,brotli,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,False,unsafe-inline,gzip,,False
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,False,unsafe-inline,brotli,ALLOW-FROM,False
+HTTP/2.0,True,default-src *,brotli,,False
+HTTP/1.0,,,gzip,,False
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/1.1,True,default-src 'self',gzip,,False
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,unsafe-inline,none,,False
+HTTP/1.1,False,unsafe-inline,gzip,,False
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,True,default-src *,gzip,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,False,none,none,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/2.0,False,default-src 'self',brotli,,False
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,True,default-src *,brotli,,False
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,script-src 'self',brotli,,False
+HTTP/1.0,True,unsafe-inline,brotli,,False
+HTTP/1.0,,none,gzip,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/2.0,,,brotli,,False
+HTTP/1.0,True,,brotli,,False
+HTTP/2.0,,none,gzip,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,False,default-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.1,True,default-src *,none,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',none,,False
+HTTP/1.0,False,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,False,,brotli,ALLOW-FROM,False
+HTTP/1.1,True,default-src *,brotli,,False
+HTTP/1.1,False,default-src 'self',none,ALLOW-FROM,False
+HTTP/2.0,,,brotli,,False
+HTTP/2.0,,none,none,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,False,,none,ALLOW-FROM,False
+HTTP/2.0,,none,gzip,,False
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,False,,none,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,False,none,brotli,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,False,default-src *,gzip,,False
+HTTP/1.0,False,default-src *,gzip,,False
+HTTP/1.1,,,brotli,,False
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/1.0,,default-src *,gzip,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.0,,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',brotli,DENY,True
+HTTP/1.1,True,none,brotli,,False
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,,default-src *,brotli,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,False,default-src *,brotli,,False
+HTTP/1.1,False,none,none,,False
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,True,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,True,none,none,,False
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,,none,gzip,ALLOW-FROM,False
+HTTP/1.0,False,script-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,True,,brotli,,False
+HTTP/1.0,True,unsafe-inline,gzip,ALLOW-FROM,False
+HTTP/2.0,,default-src *,brotli,,False
+HTTP/1.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,False,unsafe-inline,gzip,,False
+HTTP/1.1,False,unsafe-inline,none,,False
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,False,unsafe-inline,none,,False
+HTTP/2.0,,none,brotli,ALLOW-FROM,False
+HTTP/1.0,False,script-src 'self',gzip,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.1,False,script-src 'self',gzip,,False
+HTTP/1.0,True,,none,ALLOW-FROM,False
+HTTP/1.0,False,unsafe-inline,none,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,none,none,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',brotli,,False
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,False,none,none,,False
+HTTP/1.1,False,script-src 'self',brotli,,False
+HTTP/1.0,True,default-src 'self',none,,False
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/1.1,,script-src 'self',none,,False
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,none,gzip,,False
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,,none,none,ALLOW-FROM,False
+HTTP/2.0,,,brotli,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,False,default-src *,gzip,,False
+HTTP/2.0,,none,none,,False
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,False,script-src 'self',gzip,,False
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,False,none,gzip,,False
+HTTP/2.0,,none,none,ALLOW-FROM,False
+HTTP/2.0,False,unsafe-inline,brotli,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,,none,none,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.1,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,,default-src 'self',gzip,,False
+HTTP/1.1,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,,script-src 'self',none,,False
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,unsafe-inline,gzip,,False
+HTTP/2.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.1,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,False,,none,,False
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,none,none,,False
+HTTP/1.0,True,default-src *,gzip,,False
+HTTP/1.1,True,,brotli,,False
+HTTP/1.1,,,gzip,,False
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,False,default-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',none,,False
+HTTP/1.1,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,False,unsafe-inline,brotli,ALLOW-FROM,False
+HTTP/2.0,True,,gzip,ALLOW-FROM,False
+HTTP/2.0,,unsafe-inline,brotli,,False
+HTTP/1.1,True,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,False,none,brotli,,False
+HTTP/2.0,True,default-src *,none,,False
+HTTP/1.1,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/1.0,True,none,gzip,,False
+HTTP/2.0,False,default-src *,none,,False
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,False,unsafe-inline,brotli,ALLOW-FROM,False
+HTTP/1.0,,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,False,unsafe-inline,gzip,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,False,script-src 'self',gzip,,False
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/1.1,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,default-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,default-src *,brotli,,False
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,False,script-src 'self',none,,False
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,,none,gzip,,False
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,,,brotli,,False
+HTTP/1.1,,,brotli,,False
+HTTP/1.0,False,none,brotli,,False
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,False,default-src 'self',gzip,,False
+HTTP/2.0,True,script-src 'self',gzip,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',brotli,,False
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.0,,none,gzip,,False
+HTTP/1.1,True,unsafe-inline,none,ALLOW-FROM,False
+HTTP/2.0,True,,gzip,,False
+HTTP/1.0,True,,gzip,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,False,,brotli,,False
+HTTP/2.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',none,,False
+HTTP/1.0,True,default-src *,brotli,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',brotli,DENY,True
+HTTP/1.0,,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.1,,script-src 'self',gzip,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,,,none,,False
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,True,,brotli,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,False,default-src 'self',none,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,False,script-src 'self',none,,False
+HTTP/2.0,True,default-src *,none,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,False,,none,,False
+HTTP/1.1,True,none,gzip,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.0,True,default-src *,brotli,ALLOW-FROM,False
+HTTP/1.1,True,none,brotli,ALLOW-FROM,False
+HTTP/2.0,True,,gzip,,False
+HTTP/1.0,False,none,brotli,,False
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,True,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/1.0,True,default-src *,brotli,,False
+HTTP/1.1,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,,script-src 'self',gzip,,False
+HTTP/1.1,True,default-src 'self',none,,False
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,True,,none,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,default-src *,brotli,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,default-src *,gzip,,False
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.1,True,default-src *,gzip,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,,False
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.1,False,,none,,False
+HTTP/1.1,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,False,script-src 'self',gzip,,False
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,none,gzip,,False
+HTTP/2.0,False,script-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.1,False,default-src *,none,ALLOW-FROM,False
+HTTP/2.0,False,none,none,,False
+HTTP/1.0,True,none,brotli,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,unsafe-inline,gzip,ALLOW-FROM,False
+HTTP/2.0,,unsafe-inline,brotli,,False
+HTTP/1.1,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,none,none,ALLOW-FROM,False
+HTTP/2.0,,,brotli,ALLOW-FROM,False
+HTTP/1.0,True,unsafe-inline,none,,False
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,,,brotli,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,False,default-src *,none,,False
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',brotli,,False
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,unsafe-inline,none,ALLOW-FROM,False
+HTTP/2.0,True,default-src *,gzip,,False
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,False,none,gzip,ALLOW-FROM,False
+HTTP/1.1,False,unsafe-inline,none,,False
+HTTP/2.0,True,none,gzip,ALLOW-FROM,False
+HTTP/1.1,True,none,none,,False
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,,default-src *,brotli,ALLOW-FROM,False
+HTTP/1.0,,,none,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/2.0,False,,brotli,ALLOW-FROM,False
+HTTP/1.1,,default-src *,gzip,,False
+HTTP/1.1,False,default-src 'self',none,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,unsafe-inline,brotli,,False
+HTTP/1.1,True,,gzip,,False
+HTTP/1.0,True,default-src *,gzip,ALLOW-FROM,False
+HTTP/1.0,True,unsafe-inline,none,,False
+HTTP/1.1,False,,none,,False
+HTTP/2.0,False,unsafe-inline,brotli,,False
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,False,unsafe-inline,none,,False
+HTTP/2.0,False,unsafe-inline,brotli,,False
+HTTP/1.1,True,default-src *,none,,False
+HTTP/2.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/2.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',gzip,,False
+HTTP/1.0,,default-src 'self',gzip,,False
+HTTP/2.0,True,none,none,ALLOW-FROM,False
+HTTP/1.1,False,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.0,,default-src *,brotli,,False
+HTTP/2.0,,script-src 'self',none,,False
+HTTP/1.0,True,none,brotli,,False
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,,script-src 'self',brotli,,False
+HTTP/1.0,True,script-src 'self',gzip,,False
+HTTP/1.1,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,False,none,gzip,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.0,,script-src 'self',none,,False
+HTTP/2.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,True,unsafe-inline,none,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,,False
+HTTP/1.0,True,default-src 'self',brotli,,False
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/1.1,True,script-src 'self',brotli,,False
+HTTP/1.0,True,default-src *,gzip,,False
+HTTP/2.0,,,gzip,,False
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,False,script-src 'self',none,,False
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/1.1,True,none,gzip,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,,script-src 'self',brotli,,False
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.1,True,script-src 'self',gzip,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/2.0,,default-src 'self',none,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,,default-src *,none,,False
+HTTP/2.0,False,none,none,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',gzip,,False
+HTTP/1.1,False,default-src 'self',none,,False
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/1.1,True,default-src *,gzip,,False
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.1,False,default-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.0,True,none,none,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,,,gzip,,False
+HTTP/2.0,False,none,gzip,,False
+HTTP/2.0,,,none,,False
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,True,default-src *,brotli,,False
+HTTP/1.1,,none,gzip,ALLOW-FROM,False
+HTTP/2.0,False,default-src *,none,,False
+HTTP/1.0,False,script-src 'self',brotli,,False
+HTTP/1.0,True,,none,,False
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,unsafe-inline,brotli,,False
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',brotli,,False
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,,default-src 'self',brotli,,False
+HTTP/1.1,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,False,,gzip,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/2.0,False,default-src *,gzip,ALLOW-FROM,False
+HTTP/2.0,False,none,gzip,,False
+HTTP/1.0,True,script-src 'self',gzip,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.0,,script-src 'self',brotli,,False
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,none,brotli,ALLOW-FROM,False
+HTTP/1.1,True,default-src *,brotli,,False
+HTTP/1.1,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,False,unsafe-inline,brotli,,False
+HTTP/2.0,False,default-src *,none,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,True,default-src 'self',none,,False
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/1.1,False,none,none,,False
+HTTP/2.0,True,default-src *,gzip,,False
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,none,gzip,,False
+HTTP/1.1,True,none,gzip,,False
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src *,gzip,,False
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,False,none,gzip,ALLOW-FROM,False
+HTTP/2.0,True,unsafe-inline,brotli,,False
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/1.0,False,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/1.0,,none,none,,False
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,False,unsafe-inline,gzip,,False
+HTTP/1.0,False,default-src *,brotli,,False
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',brotli,,False
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,unsafe-inline,brotli,,False
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,,default-src *,none,ALLOW-FROM,False
+HTTP/1.0,True,default-src *,none,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/2.0,,default-src 'self',none,,False
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.1,,unsafe-inline,none,,False
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,False,default-src *,brotli,,False
+HTTP/1.1,,unsafe-inline,brotli,,False
+HTTP/1.1,True,script-src 'self',brotli,DENY,True
+HTTP/1.1,False,default-src 'self',none,,False
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,,script-src 'self',brotli,,False
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/1.0,True,,brotli,,False
+HTTP/1.1,True,,none,,False
+HTTP/1.1,True,unsafe-inline,brotli,,False
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,False,default-src 'self',gzip,,False
+HTTP/1.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,,default-src *,none,,False
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,unsafe-inline,brotli,,False
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,False,,none,ALLOW-FROM,False
+HTTP/1.1,False,none,gzip,,False
+HTTP/2.0,True,unsafe-inline,none,,False
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,,unsafe-inline,none,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/2.0,,,none,ALLOW-FROM,False
+HTTP/2.0,True,none,brotli,ALLOW-FROM,False
+HTTP/1.0,True,default-src *,gzip,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,False,default-src *,none,,False
+HTTP/2.0,True,script-src 'self',none,,False
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/1.1,True,,none,,False
+HTTP/2.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/1.0,,unsafe-inline,brotli,,False
+HTTP/1.1,False,none,brotli,ALLOW-FROM,False
+HTTP/2.0,True,none,gzip,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/1.1,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,default-src *,gzip,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,False,unsafe-inline,none,,False
+HTTP/1.0,True,,none,,False
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,,script-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,,none,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.1,False,none,gzip,,False
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,,none,gzip,,False
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,,unsafe-inline,brotli,ALLOW-FROM,False
+HTTP/2.0,False,unsafe-inline,gzip,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',none,,False
+HTTP/2.0,True,,gzip,,False
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,,none,brotli,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',gzip,,False
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,False,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/1.0,False,none,gzip,,False
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,,none,none,ALLOW-FROM,False
+HTTP/1.0,False,none,none,ALLOW-FROM,False
+HTTP/2.0,False,default-src 'self',none,,False
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,,unsafe-inline,gzip,,False
+HTTP/1.1,True,default-src 'self',gzip,,False
+HTTP/1.0,False,,none,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,False,,gzip,,False
+HTTP/2.0,False,none,gzip,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/2.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,,brotli,ALLOW-FROM,False
+HTTP/2.0,True,default-src *,brotli,,False
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.1,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,False,unsafe-inline,none,,False
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,False,script-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,True,none,brotli,,False
+HTTP/1.0,,,none,,False
+HTTP/2.0,True,,gzip,,False
+HTTP/1.0,True,,none,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',brotli,,False
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,,unsafe-inline,none,,False
+HTTP/1.0,,script-src 'self',gzip,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/1.1,True,,brotli,,False
+HTTP/1.1,False,unsafe-inline,gzip,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/1.1,False,default-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,False,default-src 'self',brotli,,False
+HTTP/1.0,True,none,brotli,ALLOW-FROM,False
+HTTP/2.0,,,brotli,,False
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.1,True,default-src 'self',none,,False
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,False,none,gzip,,False
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,True,default-src *,gzip,,False
+HTTP/2.0,False,default-src *,none,ALLOW-FROM,False
+HTTP/1.0,False,default-src *,gzip,,False
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,,brotli,,False
+HTTP/2.0,False,unsafe-inline,brotli,,False
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,unsafe-inline,none,,False
+HTTP/1.1,,none,none,ALLOW-FROM,False
+HTTP/1.0,False,none,gzip,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,False,none,brotli,,False
+HTTP/2.0,True,,brotli,ALLOW-FROM,False
+HTTP/2.0,,default-src *,none,,False
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.1,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',brotli,,False
+HTTP/2.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,True,,none,,False
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.0,False,unsafe-inline,brotli,,False
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/1.1,False,unsafe-inline,brotli,,False
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.1,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,,none,,False
+HTTP/1.0,,default-src 'self',none,ALLOW-FROM,False
+HTTP/1.1,True,default-src *,brotli,,False
+HTTP/2.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',gzip,,False
+HTTP/1.1,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.0,True,unsafe-inline,brotli,ALLOW-FROM,False
+HTTP/2.0,False,none,gzip,ALLOW-FROM,False
+HTTP/1.0,False,unsafe-inline,gzip,ALLOW-FROM,False
+HTTP/1.1,False,default-src *,none,,False
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,,script-src 'self',none,,False
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,,script-src 'self',none,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,,,gzip,ALLOW-FROM,False
+HTTP/1.1,False,default-src 'self',none,,False
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,script-src 'self',brotli,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,default-src *,brotli,,False
+HTTP/2.0,True,default-src 'self',none,,False
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,,unsafe-inline,none,,False
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',brotli,,False
+HTTP/2.0,True,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,False,none,none,,False
+HTTP/1.0,False,unsafe-inline,none,,False
+HTTP/2.0,False,script-src 'self',gzip,,False
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,False,none,none,,False
+HTTP/1.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,,none,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,,brotli,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,False,default-src *,none,,False
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,False,unsafe-inline,gzip,,False
+HTTP/1.0,False,default-src 'self',none,,False
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,default-src *,none,,False
+HTTP/1.0,True,script-src 'self',none,,False
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,,gzip,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.1,False,default-src *,gzip,ALLOW-FROM,False
+HTTP/2.0,,none,none,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/1.1,True,default-src *,brotli,ALLOW-FROM,False
+HTTP/2.0,False,default-src *,brotli,,False
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,False,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/1.1,True,,gzip,,False
+HTTP/1.1,True,none,none,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,True,,gzip,ALLOW-FROM,False
+HTTP/2.0,,,brotli,,False
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,,gzip,,False
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,none,gzip,,False
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.1,,unsafe-inline,gzip,,False
+HTTP/2.0,,,brotli,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,none,brotli,,False
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,False,default-src 'self',none,,False
+HTTP/1.0,,none,none,,False
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,none,gzip,,False
+HTTP/1.1,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,none,gzip,,False
+HTTP/1.0,True,none,gzip,,False
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,False,default-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,default-src *,brotli,,False
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,,none,gzip,,False
+HTTP/1.0,True,,gzip,,False
+HTTP/2.0,,script-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,False,default-src *,gzip,,False
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,False,default-src *,gzip,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,False,unsafe-inline,none,,False
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/1.0,,unsafe-inline,gzip,,False
+HTTP/1.1,True,,brotli,,False
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/1.1,True,script-src 'self',brotli,ALLOW-FROM,False
+HTTP/2.0,True,default-src *,none,,False
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/1.1,True,default-src *,none,,False
+HTTP/1.1,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/1.1,False,default-src *,none,,False
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,False,,brotli,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',brotli,DENY,True
+HTTP/1.1,True,default-src 'self',brotli,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,True,default-src 'self',none,,False
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,,script-src 'self',none,,False
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.0,,unsafe-inline,brotli,,False
+HTTP/1.1,False,script-src 'self',none,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,False,none,gzip,,False
+HTTP/1.0,True,,gzip,,False
+HTTP/1.1,False,script-src 'self',none,,False
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,none,brotli,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,,none,,False
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,,script-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.0,False,unsafe-inline,none,,False
+HTTP/2.0,,default-src *,none,,False
+HTTP/2.0,False,default-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.0,False,default-src *,gzip,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,,,brotli,,False
+HTTP/1.0,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,,default-src *,gzip,,False
+HTTP/1.1,False,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',brotli,DENY,True
+HTTP/1.1,,default-src 'self',gzip,,False
+HTTP/1.0,True,,gzip,,False
+HTTP/1.0,True,default-src *,none,,False
+HTTP/1.0,True,script-src 'self',gzip,,False
+HTTP/1.1,True,unsafe-inline,brotli,,False
+HTTP/1.0,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,True,,brotli,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',brotli,,False
+HTTP/2.0,False,unsafe-inline,brotli,,False
+HTTP/1.1,False,none,brotli,,False
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,False,none,none,,False
+HTTP/1.1,False,default-src *,none,,False
+HTTP/1.0,False,none,none,,False
+HTTP/2.0,,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,,script-src 'self',gzip,,False
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',gzip,,False
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',none,ALLOW-FROM,False
+HTTP/2.0,True,none,gzip,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,,brotli,,False
+HTTP/1.0,False,unsafe-inline,brotli,ALLOW-FROM,False
+HTTP/1.0,False,default-src *,gzip,,False
+HTTP/1.1,,unsafe-inline,gzip,,False
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,none,none,,False
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,,gzip,,False
+HTTP/1.0,True,default-src *,gzip,ALLOW-FROM,False
+HTTP/1.0,,default-src 'self',none,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,default-src *,none,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',brotli,,False
+HTTP/1.1,True,,none,,False
+HTTP/1.1,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,,default-src 'self',none,,False
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/1.1,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,False,,brotli,ALLOW-FROM,False
+HTTP/1.1,False,,none,,False
+HTTP/1.1,True,,none,,False
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,unsafe-inline,none,,False
+HTTP/1.1,True,,gzip,,False
+HTTP/2.0,True,none,none,,False
+HTTP/1.1,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,True,script-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,,gzip,,False
+HTTP/2.0,,script-src 'self',gzip,,False
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,none,gzip,,False
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,,,none,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,none,gzip,,False
+HTTP/1.1,True,none,brotli,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,,none,none,ALLOW-FROM,False
+HTTP/2.0,True,default-src *,none,,False
+HTTP/2.0,,,none,ALLOW-FROM,False
+HTTP/1.1,False,unsafe-inline,brotli,ALLOW-FROM,False
+HTTP/2.0,True,none,brotli,ALLOW-FROM,False
+HTTP/1.1,,default-src *,gzip,,False
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,,default-src 'self',none,,False
+HTTP/1.0,True,none,none,,False
+HTTP/2.0,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,True,unsafe-inline,gzip,,False
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,none,none,ALLOW-FROM,False
+HTTP/1.1,False,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.0,True,default-src *,brotli,,False
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.1,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,False,none,brotli,,False
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,,none,gzip,,False
+HTTP/1.0,False,,brotli,,False
+HTTP/2.0,True,,gzip,,False
+HTTP/1.0,,default-src *,brotli,,False
+HTTP/2.0,True,default-src *,gzip,,False
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,,default-src *,gzip,ALLOW-FROM,False
+HTTP/1.0,False,default-src 'self',gzip,,False
+HTTP/1.1,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,False,none,gzip,,False
+HTTP/1.1,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,none,brotli,,False
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src *,gzip,,False
+HTTP/2.0,,none,none,,False
+HTTP/1.1,True,,brotli,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/1.1,True,,none,ALLOW-FROM,False
+HTTP/1.0,,none,none,ALLOW-FROM,False
+HTTP/1.0,True,none,brotli,,False
+HTTP/1.0,,default-src 'self',brotli,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',brotli,,False
+HTTP/1.1,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,False,none,gzip,,False
+HTTP/2.0,True,default-src *,brotli,ALLOW-FROM,False
+HTTP/1.1,True,none,gzip,,False
+HTTP/1.0,True,default-src 'self',brotli,,False
+HTTP/1.1,,none,brotli,,False
+HTTP/1.1,False,script-src 'self',gzip,,False
+HTTP/1.1,True,none,none,,False
+HTTP/1.1,,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.0,False,default-src 'self',brotli,,False
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,False,script-src 'self',gzip,,False
+HTTP/1.0,False,unsafe-inline,none,,False
+HTTP/1.1,False,,none,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,,unsafe-inline,gzip,,False
+HTTP/2.0,,script-src 'self',gzip,ALLOW-FROM,False
+HTTP/1.1,True,,brotli,,False
+HTTP/1.1,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/1.1,True,default-src 'self',gzip,DENY,True
+HTTP/1.0,False,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.0,True,,gzip,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.0,,,gzip,,False
+HTTP/1.1,False,,gzip,,False
+HTTP/2.0,,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,,script-src 'self',gzip,,False
+HTTP/1.0,False,unsafe-inline,gzip,,False
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,False,script-src 'self',gzip,,False
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.0,True,,none,,False
+HTTP/2.0,False,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,,none,none,,False
+HTTP/2.0,True,none,brotli,,False
+HTTP/1.1,False,,none,,False
+HTTP/2.0,True,unsafe-inline,none,,False
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/2.0,True,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.0,,,gzip,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,False,default-src 'self',none,,False
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/2.0,False,,brotli,,False
+HTTP/1.1,False,none,gzip,,False
+HTTP/1.1,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,False,default-src 'self',gzip,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,,none,none,,False
+HTTP/2.0,False,default-src 'self',gzip,,False
+HTTP/1.1,True,default-src *,brotli,ALLOW-FROM,False
+HTTP/1.0,,default-src 'self',brotli,,False
+HTTP/1.1,True,script-src 'self',brotli,,False
+HTTP/2.0,True,default-src 'self',brotli,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,True,none,brotli,,False
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,,default-src *,gzip,,False
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,,,gzip,,False
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,False,script-src 'self',gzip,,False
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,,,gzip,,False
+HTTP/1.1,False,default-src *,none,,False
+HTTP/2.0,,default-src *,brotli,,False
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,True,unsafe-inline,none,,False
+HTTP/1.1,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,,none,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',brotli,DENY,True
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,False,unsafe-inline,brotli,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',brotli,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',none,DENY,True
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,unsafe-inline,none,ALLOW-FROM,False
+HTTP/1.1,True,unsafe-inline,none,,False
+HTTP/1.1,False,script-src 'self',brotli,,False
+HTTP/1.1,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,,default-src 'self',gzip,,False
+HTTP/1.1,,,brotli,ALLOW-FROM,False
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.0,False,none,none,,False
+HTTP/1.1,,,gzip,ALLOW-FROM,False
+HTTP/1.1,True,script-src 'self',brotli,DENY,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,default-src *,brotli,,False
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,,,gzip,,False
+HTTP/1.0,,default-src *,gzip,ALLOW-FROM,False
+HTTP/1.1,False,default-src 'self',gzip,,False
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,,none,brotli,ALLOW-FROM,False
+HTTP/1.1,False,none,brotli,,False
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,False,none,gzip,ALLOW-FROM,False
+HTTP/1.0,True,none,gzip,,False
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,False,unsafe-inline,brotli,,False
+HTTP/1.1,True,,brotli,,False
+HTTP/1.1,,none,none,,False
+HTTP/1.1,True,default-src 'self',none,DENY,True
+HTTP/1.1,False,,none,ALLOW-FROM,False
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,default-src *,brotli,,False
+HTTP/1.0,False,unsafe-inline,none,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/1.1,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,True,,none,,False
+HTTP/2.0,True,unsafe-inline,brotli,,False
+HTTP/2.0,True,script-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,False,unsafe-inline,gzip,,False
+HTTP/2.0,True,default-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,none,gzip,ALLOW-FROM,False
+HTTP/1.0,True,default-src *,none,,False
+HTTP/1.0,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,,,none,,False
+HTTP/2.0,False,default-src *,gzip,,False
+HTTP/1.0,True,default-src 'self',none,DENY,True
+HTTP/2.0,False,unsafe-inline,none,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.1,False,script-src 'self',brotli,,False
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
+HTTP/2.0,False,unsafe-inline,brotli,ALLOW-FROM,False
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/1.1,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,False,,gzip,ALLOW-FROM,False
+HTTP/1.1,,,brotli,,False
+HTTP/2.0,False,default-src 'self',brotli,,False
+HTTP/1.1,False,default-src *,none,,False
+HTTP/1.0,True,script-src 'self',gzip,DENY,True
+HTTP/2.0,False,unsafe-inline,gzip,,False
+HTTP/1.0,False,default-src 'self',none,,False
+HTTP/2.0,,default-src 'self',brotli,ALLOW-FROM,False
+HTTP/2.0,True,default-src 'self',none,SAMEORIGIN,True
+HTTP/2.0,False,default-src *,gzip,,False
+HTTP/1.0,True,script-src 'self',none,DENY,True
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/1.1,True,script-src 'self',brotli,DENY,True
+HTTP/1.0,True,script-src 'self',gzip,,False
+HTTP/1.0,,script-src 'self',brotli,,False
+HTTP/1.0,True,unsafe-inline,gzip,,False
+HTTP/2.0,True,default-src 'self',gzip,DENY,True
+HTTP/1.0,False,default-src 'self',none,ALLOW-FROM,False
+HTTP/2.0,True,script-src 'self',none,DENY,True
+HTTP/1.0,,default-src 'self',gzip,,False
+HTTP/1.0,True,script-src 'self',gzip,SAMEORIGIN,True
+HTTP/2.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,,none,,False
+HTTP/1.0,,none,none,,False
+HTTP/1.0,True,default-src 'self',brotli,SAMEORIGIN,True
+HTTP/2.0,True,script-src 'self',none,SAMEORIGIN,True
+HTTP/1.0,,none,brotli,,False
+HTTP/1.0,True,default-src 'self',brotli,DENY,True
+HTTP/2.0,True,script-src 'self',brotli,DENY,True
