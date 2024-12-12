@@ -1,0 +1,3 @@
+stream_id,protocol_version,cipher_suite,forward_secrecy,certificate_key_length,signature_algorithm
+0,0x0303,0xc02f,Yes,2048,sha256WithRSAEncryption
+1,0x0304,0x1301,Yes,2048,sha256WithRSAEncryption
